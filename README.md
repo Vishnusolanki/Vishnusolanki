@@ -2,6 +2,9 @@
 <h1 align="center">Namaste !! 🙏 I'm Vishnu Solanki</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3> 
 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/) [![Facebook](https://img.shields.io/badge/Facebook-%23158bd4.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/)
+<br><br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2><i>Tech Stack</i></h2>
 <p>
